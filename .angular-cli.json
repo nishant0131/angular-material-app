@@ -29,8 +29,8 @@
         "assets/dist/css/skins/all-md-skins.min.css" 
         ],
       "scripts": [       
-       "assets/plugins/jQuery/jquery-2.2.3.min.js",
-       "assets/bootstrap/js/bootstrap.min.js",
+        "assets/plugins/jQuery/jquery-2.2.3.min.js",
+        "assets/bootstrap/js/bootstrap.min.js",
         "assets/dist/js/material.min.js",
         "assets/dist/js/ripples.min.js",   
         "assets/plugins/fastclick/fastclick.js",
